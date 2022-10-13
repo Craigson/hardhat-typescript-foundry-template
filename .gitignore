@@ -9,8 +9,11 @@ cache
 artifacts
 
 #Foundry files
-forge-cache
-out
+forge-cache/
+out/
+!/broadcast
+/broadcast/*
+/broadcast/*/31337/
 
 #openzeppelin
 .openzeppelin/*
