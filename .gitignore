@@ -8,6 +8,10 @@ typechain-types
 cache
 artifacts
 
+#Foundry files
+forge-cache
+out
+
 #openzeppelin
 .openzeppelin/*
 !.openzeppelin/unknown-137.json
